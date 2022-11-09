@@ -9,7 +9,7 @@ void cylinder(float rbase,float rtop,float height); //menggambar silinder
 void blok(float tebal,int ratiol,int ratiop); //menggambar blok
 void bilah (float r_inner,float r_outer,float tebal,int batang); //menggambar bilah
 
-//atur layar
+//atur layar                BAGIAN AWAL
 int screen_width=800;// berfungsi untuk mengatur lebar screen
 int screen_height=600;//berfungsi untuk mengatur tinggi screen
 int button_up=0,button_down=0 ;//berfungsi mengatur tombol ke atas dan ke bawah
